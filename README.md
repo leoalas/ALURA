@@ -1,4 +1,4 @@
-<H1> Juego Adivina el Numero </H1>
+<H1> Sistema de Registro </H1>
 
 -Estado del proyecto: TERMINADO
 
